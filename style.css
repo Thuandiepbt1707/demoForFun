@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+img{
+    width: 100%;
+    height: 100%;
+}
+.left,
+.right{
+    /* border: 1px solid red; */
+    width: 49%;
+    margin: 0.3%;
+    display: inline-block; 
+}
+.right div{
+    /* border: 1px solid red; */
+    width: 49%;
+    margin: 0.3%;
+    display: inline-block; 
+}
